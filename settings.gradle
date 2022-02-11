@@ -1,0 +1,5 @@
+rootProject.name = 'spring-jmk'
+include 'core'
+include 'api'
+include 'batch'
+
